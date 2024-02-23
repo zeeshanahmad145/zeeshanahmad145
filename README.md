@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Language and Tools:
-[![My Skills](https://skillicons.dev/icons?i=reactjs,nodejs,html,css,git,github,postman,mongodb,firebase,mysql,&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,html,css,git,github,postman,mongodb,firebase,mysql,&perline=10)](#)
 
 [![Zeeshan Ahmad github stats](https://github-readme-stats.vercel.app/api?username=zeeshanahmad145)](https://github.com/zeeshanahmad145)
 
